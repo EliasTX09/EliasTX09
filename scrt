@@ -191,38 +191,40 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844807&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844808&extension=ts
 #EXTINF:-1 group-title="DE ⋅ RTL+ EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/330px-RTL%2B_Logo_2021.svg.png" ,RTL+ SPORT EVENT 10 FullHD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844809&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD " tvg-logo="" group-title="Sport",Sky Sport Premier League
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5976
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://iptvbeka.net/germany/skysport1hd.png" group-title="Sport",Sky Sport 1
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/922
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT2HD.png" group-title="Sport",Sky Sport 2
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/300
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT3HD.png" group-title="Sport", Sky Sport 3
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/626
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT4HD.png" group-title="Sport", Sky Sport 4
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/191
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT5HD.png" group-title="Sport",Sky Sport 5
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/192
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT6HD.png" group-title="Sport",Sky Sport 6
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/625
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 7 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT7HD.png" group-title="Sport",Sky Sport 7
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/624
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT8HD.png" group-title="Sport",Sky Sport 8
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/623
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 HD" tvg-logo="http://iptvbeka.net/germany/SKYSPORT9HD.png" group-title="Sport",Sky Sport 9
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/621
+#EXTINF:-1 tvg-id="Premier League TV" tvg-name="SKY SPORT PREMIER LEAGUE" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloH4sGKZ6P27j2-03MWTBev7oNEFUV-wdhb9bbVFWUELw.jpg" group-title="S P O R T",SKY SPORT PREMIER LEAGUE
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/234250
+#EXTINF:-1 tvg-id="sky-sport-1-de" tvg-name="SKY SPORT 1 ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloGhAtjc1v4bBUMnmQqT5-v5HF92DX1nx6W7RhsGy8WYZ.png" group-title="S P O R T",SKY SPORT 1 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2853
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="SKY SPORT 1 ᴴᴰ²" tvg-logo="http://logos.skini.link/logo/sky%20sport%201%20novo.png" group-title="S P O R T",SKY SPORT 1 ᴴᴰ²
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/7432
+#EXTINF:-1 tvg-id="sky-sport-2-de" tvg-name="SKY SPORT  2 ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloBpjYu_BgPYheQCg26oM-FI.png" group-title="S P O R T",SKY SPORT  2 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2854
+#EXTINF:-1 tvg-id="SKYSP2G" tvg-name="SKY SPORT  2 ᴴᴰ²" tvg-logo="http://logos.skini.link/logo/sky%20sport%202.png" group-title="S P O R T",SKY SPORT  2 ᴴᴰ²
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/7433
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="SKY SPORT 3 ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloIRdUFPnn5vF-8i9XcH2VTQ.png" group-title="S P O R T",SKY SPORT 3 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2855
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="SKY SPORT 4 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloLZ26XPR9y8KlHB_ArOUIrw.png" group-title="S P O R T",SKY SPORT 4 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2856
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="SKY SPORT 5 ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloMKaI7PH1oYgPmsbQG846-0.png" group-title="S P O R T",SKY SPORT 5 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2857
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="SKY SPORT 6 ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloFaPKtezDbljJ7agL9mirFI.png" group-title="S P O R T",SKY SPORT 6 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2858
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="SKY SPORT 7 ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloNyZihXoGEkTf1ldMRoRC6c.png" group-title="S P O R T",SKY SPORT 7 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2859
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="SKY SPORT 8 ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloOqhuepXwrk1QGqBXkt2Fe0.png" group-title="S P O R T",SKY SPORT 8 ᴴᴰ
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/2860
 #EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/skysportnews1.png" ,Sky Sport News
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/3168
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/top-event.png" ,sky Sport Top Event HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=482851&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TOP EVENT HD" tvg-logo="http://logos.skini.link/logo/sky%20sport%20event.webp" group-title="S P O R T",SKY SPORT TOP EVENT HD
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/234248
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 HD" tvg-logo="http://iptvbeka.net/germany/Sky Sport F1 HD.png" group-title="Sport",DE: Sky Sport F1
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/4921
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD " tvg-logo="" group-title="Sport",DE: Sky Sport Mix HD 
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5975
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MIX" tvg-logo="http://logos.skini.link/logo/sky%20sport%20mix.webp" group-title="S P O R T",SKY SPORT MIX
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/234252
 #EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-golf.png" ,sky Sport Golf
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=482838&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD " tvg-logo="" group-title="Sport",Sky Sport Tennis 
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5977
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT TENNIS" tvg-logo="http://logos.skini.link/logo/sky%20sport%20tennis.webp" group-title="S P O R T",SKY SPORT TENNIS
+http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/234251
 #EXTINF:-1 group-title="DE ⋅ TELEKOM MAGENTA SPORT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/magentai.png" ,MAGENTA TV | MagentaTV Info
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603700&extension=ts
 #EXTINF:-1 group-title="DE ⋅ TELEKOM MAGENTA SPORT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/magenta.png" ,MAGENTA TV | MagentaSport
