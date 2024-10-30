@@ -193,45 +193,97 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844808&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844809&extension=ts
 #EXTINF:-1 tvg-id="Premier League TV" tvg-name="SKY SPORT PREMIER LEAGUE" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloH4sGKZ6P27j2-03MWTBev7oNEFUV-wdhb9bbVFWUELw.jpg" group-title="S P O R T",SKY SPORT PREMIER LEAGUE
 http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/234250
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 1
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27131&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 2
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27132&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT PREMIER LEAGUE
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=302175&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT TOP EVENT
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=255365&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT MIX
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=255366&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT TENNIS
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=255364&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT GOLF
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=255367&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 3
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27133&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 4
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27134&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 5
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27135&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 6
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27136&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 7
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27137&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 8
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=27138&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 9 
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=115394&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 10
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=302186&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/Diamond/DE4KSPORT/vooralleskysportchannels.png" group-title="DE | SPORTS",4K | SKY SPORT 11
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:06:2F:83&stream=302187&extension=ts
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE ▎SKY SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/skysport1.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 1 HD
+http://line.4k-beast.co:80/425027/D64075/106944
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE ▎SKY SPORT 1 HD 4ᴋ" tvg-logo="https://img.logo-cdn.cc/skysport1.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 1 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94519
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE ▎SKY SPORT 2 HD" tvg-logo="http://img.logo-cdn.cc/skysport2.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 2 HD
+http://line.4k-beast.co:80/425027/D64075/106996
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE ▎SKY SPORT 2 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport2.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 2 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94518
+#EXTINF:-1 tvg-ID="skysport3.de" tvg-name="DE ▎SKY SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/skysport3.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 3 HD
+http://line.4k-beast.co:80/425027/D64075/160788
+#EXTINF:-1 tvg-ID="skysport3.de" tvg-name="DE ▎SKY SPORT 3 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport3.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 3 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647733
+#EXTINF:-1 tvg-ID="skysport4.de" tvg-name="DE ▎SKY SPORT 4 HD" tvg-logo="https://img.logo-cdn.cc/skysport4.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 4 HD
+http://line.4k-beast.co:80/425027/D64075/160789
+#EXTINF:-1 tvg-ID="skysport4.de" tvg-name="DE ▎SKY SPORT 4 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport4.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 4 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647751
+#EXTINF:-1 tvg-ID="skysport5.de" tvg-name="DE ▎SKY SPORT 5 HD" tvg-logo="https://img.logo-cdn.cc/skysport5.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 5 HD
+http://line.4k-beast.co:80/425027/D64075/160790
+#EXTINF:-1 tvg-ID="skysport5.de" tvg-name="DE ▎SKY SPORT 5 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport5.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 5 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647763
+#EXTINF:-1 tvg-ID="skysport6.de" tvg-name="DE ▎SKY SPORT 6 HD" tvg-logo="https://img.logo-cdn.cc/skysport6.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 6 HD
+http://line.4k-beast.co:80/425027/D64075/160791
+#EXTINF:-1 tvg-ID="skysport6.de" tvg-name="DE ▎SKY SPORT 6 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport6.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 6 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647767
+#EXTINF:-1 tvg-ID="skysport7.de" tvg-name="DE ▎SKY SPORT 7 HD" tvg-logo="https://img.logo-cdn.cc/skysport7.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 7 HD
+http://line.4k-beast.co:80/425027/D64075/160792
+#EXTINF:-1 tvg-ID="skysport7.de" tvg-name="DE ▎SKY SPORT 7 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport7.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 7 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647774
+#EXTINF:-1 tvg-ID="skysport8.de" tvg-name="DE ▎SKY SPORT 8 HD" tvg-logo="https://img.logo-cdn.cc/skysport8.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 8 HD
+http://line.4k-beast.co:80/425027/D64075/160793
+#EXTINF:-1 tvg-ID="skysport8.de" tvg-name="DE ▎SKY SPORT 8 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport8.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 8 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647779
+#EXTINF:-1 tvg-ID="skysport9.de" tvg-name="DE ▎SKY SPORT 9 HD" tvg-logo="https://img.logo-cdn.cc/skysport9.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 9 HD
+http://line.4k-beast.co:80/425027/D64075/160794
+#EXTINF:-1 tvg-ID="skysport9.de" tvg-name="DE ▎SKY SPORT 9 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport9.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 9 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647784
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="DE ▎SKY SPORT 10 HD" tvg-logo="https://img.logo-cdn.cc/skysport10.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 10 HD
+http://line.4k-beast.co:80/425027/D64075/160795
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="DE ▎SKY SPORT 10 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysport10.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 10 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/647791
+#EXTINF:-1 tvg-ID="skybundesliga.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA HD
+http://line.4k-beast.co:80/425027/D64075/638324
+#EXTINF:-1 tvg-ID="skybundesliga.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA HD 4ᴋ ◉ rec" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA HD 4ᴋ ◉ rec
+http://line.4k-beast.co:80/425027/D64075/638323
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga1.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 1 HD
+http://line.4k-beast.co:80/425027/D64075/106953
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 1 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga1.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 1 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94517
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga2.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 2 HD
+http://line.4k-beast.co:80/425027/D64075/106954
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 2 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga2.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 2 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94516
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga3.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 3 HD
+http://line.4k-beast.co:80/425027/D64075/106955
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 3 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga3.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 3 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94515
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga4.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 4 HD
+http://line.4k-beast.co:80/425027/D64075/106956
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 4 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga4.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 4 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94514
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga5.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 5 HD
+http://line.4k-beast.co:80/425027/D64075/106957
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 5 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga5.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 5 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94513
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 6 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga6.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 6 HD
+http://line.4k-beast.co:80/425027/D64075/106958
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 6 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga6.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 6 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94512
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 7 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga7.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 7 HD
+http://line.4k-beast.co:80/425027/D64075/106959
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 7 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga7.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 7 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94511
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 8 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga8.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 8 HD
+http://line.4k-beast.co:80/425027/D64075/106960
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 8 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga8.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 8 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94510
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 9 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga9.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 9 HD
+http://line.4k-beast.co:80/425027/D64075/106961
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 9 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga9.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 9 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/94509
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga10.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 10 HD
+http://line.4k-beast.co:80/425027/D64075/106987
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 10 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga10.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 10 HD 4ᴋ
+http://line.4k-beast.co:80/425027/D64075/945082
 #EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sports News HD" tvg-logo="http://iptvbeka.net/germany/Sky_Sport_News_HD_Logo_2016.png" group-title="Sport",DE:Sky Sports News HD
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/3168
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 HD" tvg-logo="http://iptvbeka.net/germany/Sky Sport F1 HD.png" group-title="Sport",DE: Sky Sport F1 HD
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/4921
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD " tvg-logo="" group-title="Sport",DE: Sky Sport Tennis HD 
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5977
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD " tvg-logo="" group-title="Sport",DE: Sky Sport Premier League HD 
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD " tvg-logo="" group-title="Sport",DE: Sky Sport Premier League HD
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5976
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD " tvg-logo="" group-title="Sport",DE: Sky Sport Mix HD 
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5975
