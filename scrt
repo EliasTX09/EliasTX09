@@ -139,26 +139,26 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455017&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455018&extension=ts
 #EXTINF:-1 group-title="DE ⋅ SKY ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" ,COMEDY CENTRAL
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=669915&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1" tvg-logo="http://iptvbeka.net/germany/SKYSPORT1HD.png" group-title="Sport",Sky Sport Bundesliga 1
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/302
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2" tvg-logo="http://iptvbeka.net/germany/SKYSPORT2.png" group-title="Sport",Sky Sport Bundesliga 2
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/303
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3" tvg-logo="http://iptvbeka.net/germany/SKYSPORT3HD.png" group-title="Sport",Sky Sport Bundesliga 3
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/304
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4" tvg-logo="http://iptvbeka.net/germany/SKYSPORT4HD.png" group-title="Sport",Sky Sport Bundesliga 4
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/305
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5" tvg-logo="http://iptvbeka.net/germany/SKYSPORT5HD.png" group-title="Sport",Sky Sport Bundesliga 5
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/306
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6" tvg-logo="http://iptvbeka.net/germany/SKYSPORT6HD.png" group-title="Sport",Sky Sport Bundesliga 6
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/620
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 7" tvg-logo="http://iptvbeka.net/germany/SKYSPORT7HD.png" group-title="Sport",Sky Sport Bundesliga 7
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/619
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 8" tvg-logo="http://iptvbeka.net/germany/SKYSPORT8HD.png" group-title="Sport",Sky Sport Bundesliga 8
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/618
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 9" tvg-logo="http://iptvbeka.net/germany/skybundeliga9.png" group-title="Sport",Sky Sport Bundesliga 9
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1009
-#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 10" tvg-logo="http://iptvbeka.net/germany/skybundesliga10.png" group-title="Sport",Sky Sport Bundesliga 10
-http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1010
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga1.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 1 HD
+http://line.4k-beast.co:80/425027/D64075/106953
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga2.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 2 HD
+http://line.4k-beast.co:80/425027/D64075/106954
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga3.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 3 HD
+http://line.4k-beast.co:80/425027/D64075/106955
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga4.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 4 HD
+http://line.4k-beast.co:80/425027/D64075/106956
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga5.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 5 HD
+http://line.4k-beast.co:80/425027/D64075/106957
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 6 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga6.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 6 HD
+http://line.4k-beast.co:80/425027/D64075/106958
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 7 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga7.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 7 HD
+http://line.4k-beast.co:80/425027/D64075/106959
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 8 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga8.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 8 HD
+http://line.4k-beast.co:80/425027/D64075/106960
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 9 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga9.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 9 HD
+http://line.4k-beast.co:80/425027/D64075/106961
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga10.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 10 HD
+http://line.4k-beast.co:80/425027/D64075/106987
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn HD " tvg-logo="" group-title="Sport",Dazn HD 
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5916
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 1 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 1
@@ -367,3 +367,24 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455141&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455142&extension=ts
 #EXTINF:-1 group-title="AT ⋅ ÖSTERREICH SPORT" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/sky-sport-austria-1.png" ,sky Sport Austria 8 HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=841932&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 1" tvg-logo="http://iptvbeka.net/germany/SKYSPORT1HD.png" group-title="Sport",Sky Sport Bundesliga 1
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/302
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 2" tvg-logo="http://iptvbeka.net/germany/SKYSPORT2.png" group-title="Sport",Sky Sport Bundesliga 2
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/303
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 3" tvg-logo="http://iptvbeka.net/germany/SKYSPORT3HD.png" group-title="Sport",Sky Sport Bundesliga 3
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/304
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 4" tvg-logo="http://iptvbeka.net/germany/SKYSPORT4HD.png" group-title="Sport",Sky Sport Bundesliga 4
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/305
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 5" tvg-logo="http://iptvbeka.net/germany/SKYSPORT5HD.png" group-title="Sport",Sky Sport Bundesliga 5
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/306
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 6" tvg-logo="http://iptvbeka.net/germany/SKYSPORT6HD.png" group-title="Sport",Sky Sport Bundesliga 6
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/620
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 7" tvg-logo="http://iptvbeka.net/germany/SKYSPORT7HD.png" group-title="Sport",Sky Sport Bundesliga 7
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/619
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 8" tvg-logo="http://iptvbeka.net/germany/SKYSPORT8HD.png" group-title="Sport",Sky Sport Bundesliga 8
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/618
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 9" tvg-logo="http://iptvbeka.net/germany/skybundeliga9.png" group-title="Sport",Sky Sport Bundesliga 9
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1009
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Bundesliga 10" tvg-logo="http://iptvbeka.net/germany/skybundesliga10.png" group-title="Sport",Sky Sport Bundesliga 10
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1010
+
