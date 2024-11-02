@@ -363,24 +363,24 @@ http://line.4k-beast.co:80/425027/D64075/106960
 http://line.4k-beast.co:80/425027/D64075/106961
 #EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga10.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 10 HD
 http://line.4k-beast.co:80/425027/D64075/106987
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455111&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455112&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455113&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455114&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455115&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 6 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455116&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 7 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455117&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 8 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455118&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 9 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455119&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 10 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455120&extension=ts
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga1.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 1 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61659
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga2.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 2 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61657
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga3.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 3 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61655
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga4.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 4 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61653
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga5.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 5 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61651
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga6.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 6 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61649
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: SKY BUNDESLIGA 7 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga7.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 7 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61647
+#EXTINF:-1 tvg-id="360.tr" tvg-name="DE: SKY BUNDESLIGA 8 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga8.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 8 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61645
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga9.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 9 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61643
+#EXTINF:-1 tvg-id="360.tr" tvg-name="DE: SKY BUNDESLIGA 10 HD" tvg-logo="https://static.epg.best/de/SkyBundesliga10.de.png" group-title="DE - SKY BUNDESLIGA",DE: SKY BUNDESLIGA 10 HD
+http://firsteu.xyz:8080/HalilSimsek/jJhVcVVsGebD/61641
 
