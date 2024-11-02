@@ -192,7 +192,7 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844808&ext
 #EXTINF:-1 group-title="DE ⋅ RTL+ EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/330px-RTL%2B_Logo_2021.svg.png" ,RTL+ SPORT EVENT 10 FullHD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844809&extension=ts
 #EXTINF:-1 tvg-id="Premier League TV" tvg-name="SKY SPORT PREMIER LEAGUE" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloH4sGKZ6P27j2-03MWTBev7oNEFUV-wdhb9bbVFWUELw.jpg" group-title="S P O R T",SKY SPORT PREMIER LEAGUE
-http://tv.balkanci.net:8080/Kristijan/L2QJ4VvC4W/234250
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5976
 #EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE ▎SKY SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/skysport1.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 1 HD
 http://line.4k-beast.co:80/425027/D64075/106944
 #EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE ▎SKY SPORT 2 HD" tvg-logo="http://img.logo-cdn.cc/skysport2.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 2 HD
