@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1,Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/zdf.png" ,ZDF
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455086&extension=ts
 #EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/de/rtllogo2.png" ,RTL
