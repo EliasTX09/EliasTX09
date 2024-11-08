@@ -162,13 +162,13 @@ http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1010
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn HD " tvg-logo="" group-title="Sport",Dazn HD 
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5916
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 1 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 1
-http://vipgsiv.top:8080/live/Playa/Playa/1383.m3u8
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455045&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 2 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 2
-http://vipgsiv.top:8080/live/Playa/Playa/1384.m3u8
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455046&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Rise HD" tvg-logo="" group-title="Sport",DE:Dazn Rise HD
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:A0:FD:D0&stream=728998&extension=ts
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=728998&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Fast+ HD" tvg-logo="" group-title="Sport",Dazn Fast+ HD
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:A0:FD:D0&stream=728997&extension=ts
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=728997&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Combat HD" tvg-logo="" group-title="Sport",Dazn Combat HD
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5971
 #EXTINF:-1 group-title="DE ⋅ RTL+ EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/rtl+1.png" ,RTL+ SPORT EVENT 1 HD
