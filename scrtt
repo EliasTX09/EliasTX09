@@ -366,3 +366,5 @@ http://line.4k-beast.co:80/425027/D64075/106960
 http://line.4k-beast.co:80/425027/D64075/106961
 #EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga10.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 10 HD
 http://line.4k-beast.co:80/425027/D64075/106987
+#EXTINF:-1,Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
