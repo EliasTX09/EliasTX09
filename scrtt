@@ -162,9 +162,9 @@ http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1010
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn HD " tvg-logo="" group-title="Sport",Dazn HD 
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5916
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 1 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 1
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=1567708&extension=ts&play_token=55nf4uYo6z
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889506&extension=ts&play_token=J3PMJ7LRcm
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 2 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 2
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=1567707&extension=ts&play_token=tcY3VFcHb1
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889505&extension=ts&play_token=H26anJ3D8y
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Rise HD" tvg-logo="" group-title="Sport",DE:Dazn Rise HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=728998&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Fast+ HD" tvg-logo="" group-title="Sport",Dazn Fast+ HD
