@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1,Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/zdf.png" ,ZDF
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455086&extension=ts
 #EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/de/rtllogo2.png" ,RTL
@@ -39,7 +41,7 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=872&extens
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=845&extension=ts
 #EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/emotions.png" ,Sat.1 Emotions
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=728489&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/kabel-eins-classic.png" kabel eins classics
+#EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/kabel-eins-classic.png",kabel eins classics
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=864&extension=ts
 #EXTINF:-1 group-title="DE ⋅ DEUTSCHE HD" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/ARTE.png" ,ARTE
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=892&extension=ts
@@ -137,74 +139,38 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455017&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455018&extension=ts
 #EXTINF:-1 group-title="DE ⋅ SKY ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" ,COMEDY CENTRAL
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=669915&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-logolar-yeni/skybun.png" ,sky Sport Bundesliga HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603371&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455111&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455112&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455113&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455114&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455115&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 6 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455116&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 7 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455117&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 8 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455118&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 9 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455119&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" ,sky Sport Bundesliga 10 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455120&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455045&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455046&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603662&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603663&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603664&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603665&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 6 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603666&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 7 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603667&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 8 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603668&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 9 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603669&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 10 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603670&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 11 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603671&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 12 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603672&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 13 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603673&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 14 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603674&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 15 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603675&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 16 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603676&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 17 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603677&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 18 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603678&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 19 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603679&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN EVENT 20 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603680&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-sport/dazn.rise.png" ,DAZN RISE (nur Frauen Sport)
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga1.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 1 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/302
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga2.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 2 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/303
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga3.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 3 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/304
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga4.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 4 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/305
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga5.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 5 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/306
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 6 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga6.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 6 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/620
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 7 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga7.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 7 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/619
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 8 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga8.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 8 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/618
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 9 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga9.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 9 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1009
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga10.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 10 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/1010
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn HD " tvg-logo="" group-title="Sport",Dazn HD 
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5916
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 1 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 1
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:1B:36:6D&stream=11236&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 2 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 2
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:1B:36:6D&stream=11237&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Rise HD" tvg-logo="" group-title="Sport",DE:Dazn Rise HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=728998&extension=ts
-#EXTINF:-1 group-title="DE ⋅ DAZN EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/Dazn-logo.png" ,DAZN FAST
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=728997&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Fast+ HD" tvg-logo="" group-title="Sport",Dazn Fast+ HD
+http://iptvtree.net:8080/romaniamedia/2a4dcdecbd/304355
+#EXTINF:-1 tvg-id="" tvg-name="DE: Dazn Combat HD" tvg-logo="" group-title="Sport",Dazn Combat HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5971
 #EXTINF:-1 group-title="DE ⋅ RTL+ EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/rtl+1.png" ,RTL+ SPORT EVENT 1 HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=487478&extension=ts
 #EXTINF:-1 group-title="DE ⋅ RTL+ EVENT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/rtl+2.png" ,RTL+ SPORT EVENT 2 HD
@@ -225,45 +191,41 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844807&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844808&extension=ts
 #EXTINF:-1 group-title="DE ⋅ RTL+ EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/330px-RTL%2B_Logo_2021.svg.png" ,RTL+ SPORT EVENT 10 FullHD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844809&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-premier.png" ,sky Sport Premier League HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=482839&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-1.png" ,Sky Sport 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455123&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-2.png" ,sky Sport 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455124&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-3.png" ,sky Sport 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455125&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-4.png" ,sky Sport 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455126&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-5.png" ,sky Sport 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455127&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-6.png" ,sky Sport 6 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455128&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-7.png" ,sky Sport 7 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455129&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-8.png" ,sky Sport 8 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455130&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-9.png" ,sky Sport 9 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455131&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-10.png" ,sky Sport 10 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455132&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-11.png" ,sky Sport 11 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455133&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/skysportnews1.png" ,Sky Sport News HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455041&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/top-event.png" ,sky Sport Top Event HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=482851&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-f1.png" ,sky Sport F1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455044&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-mix.png" ,sky Sport Mix HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=482840&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-golf.png" ,sky Sport Golf HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=482838&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SKY SPORT NON-STOP" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sky-sport-tennis.png" ,sky Sport Tennis HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=482841&extension=ts
-#EXTINF:-1 group-title="DE ⋅ TELEKOM MAGENTA SPORT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/magentai.png" ,MAGENTA TV | MagentaTV Info HD
+#EXTINF:-1 tvg-id="Premier League TV" tvg-name="SKY SPORT PREMIER LEAGUE" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJhWfTg4zQmw6bCx5pq2JloH4sGKZ6P27j2-03MWTBev7oNEFUV-wdhb9bbVFWUELw.jpg" group-title="S P O R T",SKY SPORT PREMIER LEAGUE
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5976
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE ▎SKY SPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/skysport1.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 1 HD
+http://line.4k-beast.co:80/425027/D64075/106944
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE ▎SKY SPORT 2 HD" tvg-logo="http://img.logo-cdn.cc/skysport2.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 2 HD
+http://line.4k-beast.co:80/425027/D64075/106996
+#EXTINF:-1 tvg-ID="skysport3.de" tvg-name="DE ▎SKY SPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/skysport3.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 3 HD
+http://line.4k-beast.co:80/425027/D64075/160788
+#EXTINF:-1 tvg-ID="skysport4.de" tvg-name="DE ▎SKY SPORT 4 HD" tvg-logo="https://img.logo-cdn.cc/skysport4.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 4 HD
+http://line.4k-beast.co:80/425027/D64075/160789
+#EXTINF:-1 tvg-ID="skysport5.de" tvg-name="DE ▎SKY SPORT 5 HD" tvg-logo="https://img.logo-cdn.cc/skysport5.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 5 HD
+http://line.4k-beast.co:80/425027/D64075/160790
+#EXTINF:-1 tvg-ID="skysport6.de" tvg-name="DE ▎SKY SPORT 6 HD" tvg-logo="https://img.logo-cdn.cc/skysport6.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 6 HD
+http://line.4k-beast.co:80/425027/D64075/160791
+#EXTINF:-1 tvg-ID="skysport7.de" tvg-name="DE ▎SKY SPORT 7 HD" tvg-logo="https://img.logo-cdn.cc/skysport7.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 7 HD
+http://line.4k-beast.co:80/425027/D64075/160792
+#EXTINF:-1 tvg-ID="skysport8.de" tvg-name="DE ▎SKY SPORT 8 HD" tvg-logo="https://img.logo-cdn.cc/skysport8.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 8 HD
+http://line.4k-beast.co:80/425027/D64075/160793
+#EXTINF:-1 tvg-ID="skysport9.de" tvg-name="DE ▎SKY SPORT 9 HD" tvg-logo="https://img.logo-cdn.cc/skysport9.png" group-title="DE ▎SPORT",DE ▎SKY SPORT 9 HD
+http://line.4k-beast.co:80/425027/D64075/160794
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sports News HD" tvg-logo="http://iptvbeka.net/germany/Sky_Sport_News_HD_Logo_2016.png" group-title="Sport",DE:Sky Sports News HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/3168
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport F1 HD" tvg-logo="http://iptvbeka.net/germany/Sky Sport F1 HD.png" group-title="Sport",DE: Sky Sport F1 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/4921
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis HD " tvg-logo="" group-title="Sport",DE: Sky Sport Tennis HD 
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5977
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Premier League HD " tvg-logo="" group-title="Sport",DE: Sky Sport Premier League
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5976
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Mix HD " tvg-logo="" group-title="Sport",DE: Sky Sport Mix HD 
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5975
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Golf HD" tvg-logo="" group-title="Sport",DE: Sky Sport Golf HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5974
+#EXTINF:-1 group-title="DE ⋅ TELEKOM MAGENTA SPORT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/magentai.png" ,MAGENTA TV | MagentaTV Info
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603700&extension=ts
-#EXTINF:-1 group-title="DE ⋅ TELEKOM MAGENTA SPORT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/magenta.png" ,MAGENTA TV | MagentaSport HD
+#EXTINF:-1 group-title="DE ⋅ TELEKOM MAGENTA SPORT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/magenta.png" ,MAGENTA TV | MagentaSport
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603681&extension=ts
 #EXTINF:-1 group-title="DE ⋅ TELEKOM MAGENTA SPORT" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/ms.png" ,MAGENTA TV | MS SPORT
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603701&extension=ts
@@ -305,74 +267,10 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603698&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=603699&extension=ts
 #EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/de-sport/wowsport.png" ,WOW Sports 1 HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=844854&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/eurosport-11.png" ,Eurosport1
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=6712&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/eurosport-22.png" Eurosport2
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=6713&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 1 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806659&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 2 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806660&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 3 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806661&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 4 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806662&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 5 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806663&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 6 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806664&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 7 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806665&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 8 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806666&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 9 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806667&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 10 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806668&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 11 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806669&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 12 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806670&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 13 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806671&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 14 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806672&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 15 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806673&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 16 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806674&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 17 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806675&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 18 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806676&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 19 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806677&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 20 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806678&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 21 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806679&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 22 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806680&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 23 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806681&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 24 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806682&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 25 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806683&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 26 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806684&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 27 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806687&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 28 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806688&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 29 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806689&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 30 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806690&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 31 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806691&extension=ts
-#EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="https://onecentcdn.com/newpicon/DE_YENI/de-sport/eurosport.extra.png" ,EUROSPORT EXTRA 32 HD
-http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=806692&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EuroSport 1 HD" tvg-logo="http://iptvbeka.net/germany/eurosport1.png" group-title="Germany",EuroSport 1
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/125
+#EXTINF:-1 tvg-id="" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://iptvbeka.net/germany/eurosport2.png" group-title="Sport",DE: Eurosport 2 HD
+http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/284
 #EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/sport1.png" ,Sport 1 Full HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=997&extension=ts
 #EXTINF:-1 group-title="DE ⋅ SPORT & EUROSPORT360" tvg-logo="http://onecentcdn.com/newpicon/sky-dazn/fcbayern-tv.png" ,FC Bayern TV
@@ -445,3 +343,28 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455141&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455142&extension=ts
 #EXTINF:-1 group-title="AT ⋅ ÖSTERREICH SPORT" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/sky-sport-austria-1.png" ,sky Sport Austria 8 HD
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=841932&extension=ts
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga1.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 1 HD
+http://line.4k-beast.co:80/425027/D64075/106953
+http://ex.guteex.com:8000/ErgInHasanov2592021/oElK9eL7rzUm287Z/167
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga1.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 1 HD
+http://line.4k-beast.co:80/425027/D64075/106953
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga2.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 2 HD
+http://line.4k-beast.co:80/425027/D64075/106954
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga3.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 3 HD
+http://line.4k-beast.co:80/425027/D64075/106955
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga4.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 4 HD
+http://line.4k-beast.co:80/425027/D64075/106956
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga5.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 5 HD
+http://line.4k-beast.co:80/425027/D64075/106957
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 6 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga6.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 6 HD
+http://line.4k-beast.co:80/425027/D64075/106958
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 7 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga7.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 7 HD
+http://line.4k-beast.co:80/425027/D64075/106959
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 8 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga8.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 8 HD
+http://line.4k-beast.co:80/425027/D64075/106960
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 9 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga9.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 9 HD
+http://line.4k-beast.co:80/425027/D64075/106961
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE ▎SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://img.logo-cdn.cc/skysportbundesliga10.png" group-title="DE ▎SKY BUNDESLIGA",DE ▎SKY SPORT BUNDESLIGA 10 HD
+http://line.4k-beast.co:80/425027/D64075/106987
+#EXTINF:-1,Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
