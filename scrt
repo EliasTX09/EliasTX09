@@ -139,24 +139,26 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455017&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455018&extension=ts
 #EXTINF:-1 group-title="DE ⋅ SKY ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" ,COMEDY CENTRAL
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=669915&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=4619&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 2 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3336&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 3 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3335&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 4 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3334&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 5 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3333&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 6 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3332&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 7 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3331&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 8 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3330&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 9 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=3329&extension=ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 1 HD.de" tvg-name="DE: Sky Bundesliga 1 HD" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl1-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 1 HD
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/217813.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 2 HD.de" tvg-name="DE: Sky Bundesliga 2 HD match time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl2-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 2 HD match time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3413.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 3 HD.de" tvg-name="DE: Sky Bundesliga 3 HD match time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl3-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 3 HD match time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3412.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 4 HD.de" tvg-name="DE: Sky Bundesliga 4 HD match time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl4-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 4 HD match time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/123115.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 5 HD.de" tvg-name="DE: Sky Bundesliga 5 HD Match Time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl5-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 5 HD Match Time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3410.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 6 HD.de" tvg-name="DE: Sky Bundesliga 6 HD Match Time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl6-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 6 HD Match Time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3409.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 7 HD.de" tvg-name="DE: Sky Bundesliga 7 HD Match Time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl7-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 7 HD Match Time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3408.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 8 HD.de" tvg-name="DE: Sky Bundesliga 8 HD Match Time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl8-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 8 HD Match Time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3407.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 9 HD.de" tvg-name="DE: Sky Bundesliga 9 HD Match Time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl9-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 9 HD Match Time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3406.ts
+#EXTINF:-1 tvg-ID="Sky Sport Bundesliga 10 HD.de" tvg-name="DE: Sky Bundesliga 10 HD match time" tvg-logo="http://176.57.189.133/DELOGO/sky-sport-bl10-hd.png" group-title="DE SPORT",DE: Sky Bundesliga 10 HD match time
+http://g1x.mas10.xyz:8080/live/g3fuq1a6/u2r32yvu/3414.ts
 #EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 10 HEVC
 http://93.119.105.62:80/play/live.php?mac=00:1A:79:5F:D0:62&stream=119880&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn HD " tvg-logo="" group-title="Sport",Dazn HD 
