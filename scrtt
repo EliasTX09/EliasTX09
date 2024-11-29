@@ -139,26 +139,26 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455017&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455018&extension=ts
 #EXTINF:-1 group-title="DE ⋅ SKY ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" ,COMEDY CENTRAL
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=669915&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=4619&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 2 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3336&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 3 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3335&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 4 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3334&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 5 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3333&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 6 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3332&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 7 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3331&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 8 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3330&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 9 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=3329&extension=ts
-#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 10 HEVC
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:3B:B2:05&stream=119880&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 1 HD
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88764
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga2.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 2 HD
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88765
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 3 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundeliga3.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 3 HD 
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88766
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 4 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga4.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 4 HD 
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88767
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 5 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/sklybundesliga5.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 5 HD 
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88768
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 6 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybnsgaliga6.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 6 HD 
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88769
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 7 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga7.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 7 HD 
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88770
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 8 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga8.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 8 HD 
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88771
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 9 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga9.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 9 HD 
+http://eu.germanydns.org:8080/Denizerol/nsHxts7/88772
+#EXTINF:-1 tvg-id="" tvg-name="DE:SKY BUNDESLIGA 10 HD (LIVE EVENT)" tvg-logo="https://i0.wp.com/resim.yayins.com/alman/skybundesliga10.png" group-title="DEUTSCHE SPORT",DE:SKY BUNDESLIGA 10 HD
+
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn HD " tvg-logo="" group-title="Sport",Dazn HD 
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5916
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 1 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 1
