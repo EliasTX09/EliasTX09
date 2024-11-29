@@ -139,26 +139,26 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455017&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=455018&extension=ts
 #EXTINF:-1 group-title="DE ⋅ SKY ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" ,COMEDY CENTRAL
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:7A:75:52&stream=669915&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 1 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889502&extension=ts&play_token=7NuukFIn8L
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga2.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 2 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889501&extension=ts&play_token=eRKIllpyI3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga3.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 3 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889500&extension=ts&play_token=Ht6nxgZ2U3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga4.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 4 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889499&extension=ts&play_token=cedzfMa4oa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga5.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 5 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889498&extension=ts&play_token=urDoJGoixw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga6.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 6 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889497&extension=ts&play_token=pnuhCnHcsp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga7.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 7 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889496&extension=ts&play_token=w172uVjzgc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga8.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 8 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889495&extension=ts&play_token=sXS4k0PKvu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga9.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 9 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889494&extension=ts&play_token=lAqBlhlv6v
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga10.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 10 HEVC
-http://line.linehunt.org:80/play/live.php?mac=00:1A:79:B5:A0:41&stream=889492&extension=ts&play_token=1m3MDfZy0t
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 1 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=4619&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 2 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 2 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3336&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 3 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 3 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3335&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 4 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 4 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3334&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 5 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 5 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3333&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 6 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 6 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3332&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 7 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 7 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3331&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 8 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 8 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3330&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 9 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 9 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=3329&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE) Sky Bundesliga 10 HEVC" tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 10 HEVC
+http://iptv.darktv.nl:25461/play/live.php?mac=00:1A:79:BF:D0:07&stream=119880&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: Dazn HD " tvg-logo="" group-title="Sport",Dazn HD 
 http://cmskos.bekaks.net:777/GottfriedNagler/cdzDfY6cx1s/5916
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORT 1 HD*" tvg-logo="http://iptvbeka.net/germany/dazn1.png" group-title="Sport",DAZN 1
