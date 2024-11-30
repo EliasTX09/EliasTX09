@@ -370,24 +370,37 @@ http://line.4k-beast.co:80/425027/D64075/106987
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 1
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=814&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 2
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=815&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 3
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444021&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 4
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444022&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 5
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444023&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 6
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444024&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 7
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444025&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 8
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444026&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 9
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444027&extension=ts
-#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 10
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=1047&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 1 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889502&extension=ts&play_token=1kQmYj5FN4
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=984666&extension=ts&play_token=LVx3PyuKHr
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT TOP EVENT HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT TOP EVENT HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=984665&extension=ts&play_token=3Dxn2jV3A2
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT TENNIS HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT TENNIS HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=984664&extension=ts&play_token=tljEGTyR0l
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT PREMIER LEAGUE HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT PREMIER LEAGUE HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=984663&extension=ts&play_token=UgCuOiOHvJ
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT MIX HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT MIX HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=984662&extension=ts&play_token=2WjfJebG7F
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT GOLF HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT GOLF HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=984661&extension=ts&play_token=7xCxpihFW1
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 2 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga2.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 2 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889501&extension=ts&play_token=QKU2pDzMfi
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 3 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga3.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 3 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889500&extension=ts&play_token=Ogj0fGYbrF
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 4 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga4.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 4 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889499&extension=ts&play_token=bCSdM9PX9s
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 5 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga5.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 5 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889498&extension=ts&play_token=cXEj8PYOoH
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 6 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga6.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 6 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889497&extension=ts&play_token=PPvRVvYGRc
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 7 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga7.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 7 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889496&extension=ts&play_token=Rl3WZNYi0Y
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 8 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga8.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 8 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889495&extension=ts&play_token=vYgpmlWkR0
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 9 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga9.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 9 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889494&extension=ts&play_token=YoIe5KSN7S
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 10 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga10.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 10 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889492&extension=ts&play_token=JHZubIQ2N9
+
 
