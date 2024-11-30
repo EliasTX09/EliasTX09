@@ -371,6 +371,10 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1,Das Erste.
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 1 HEVC
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:19:05:D9&stream=889502&extension=ts&play_token=HKKTc7GT4B
+http://line.linehunt.org:80/play/live.php?mac=00:1A:79:5C:B6:B1&stream=889502&extension=ts&play_token=U7s8y4EnRv
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 1 HEVC
+http://line.linehunt.org:80/play/live.php?mac=00:1A:79:5C:B6:B1&stream=889502&extension=ts&play_token=U7s8y4EnRv
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 1 HEVC
+http://line.linehunt.org:80/play/live.php?mac=00:1A:79:5C:B6:B1&stream=889502&extension=ts&play_token=U7s8y4EnRv
 
 
