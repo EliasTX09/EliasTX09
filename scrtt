@@ -370,45 +370,24 @@ http://line.4k-beast.co:80/425027/D64075/106987
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-ID="Sky.Sport.Bundesliga.de" tvg-name="DE - SKY SPORT BUNDESLIGA HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145615
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145614
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga1hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 1 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145611
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga1hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 1 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145610
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 2 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga2hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 2 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145609
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga2hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 2 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145608
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 3 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga3hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 3 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145607
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga3hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 3 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145606
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 4 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga4hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 4 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145605
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga4hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 4 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145604
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 5 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga5hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 5 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145603
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 5 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga5hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 5 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145602
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 6 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga6hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 6 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145601
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA  6 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga6hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA  6 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145600
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 7 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga7hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 7 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145599
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga7hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 7 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145598
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA  8 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga8hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA  8 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145597
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga8hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 8 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145596
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 9 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga9hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 9 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145595
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga9hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 9 FHD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145594
-#EXTINF:-1 tvg-ID="" tvg-name="DE - SKY SPORT BUNDESLIGA 10 HD" tvg-logo="http://logo.123sat.net/newlogo/skysportbundesliga10hd.png" group-title="EU| GERMANY SPORT",DE - SKY SPORT BUNDESLIGA 10 HD
-http://derako.dinoplayer.net:2082/110050374276174/51310181/145593
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=814&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=815&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 3
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444021&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 4
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444022&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 5
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444023&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 6
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444024&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 7
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444025&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 8
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444026&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 9
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=444027&extension=ts
+#EXTINF:-1 tvg-logo="http://onecentcdn.com/newpicon/de/skybundesliga1logo2.png" group-title="DE ⋅ SKY SPORT NON-STOP",sky Sport Bundesliga 10
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:6E:2E:30&stream=1047&extension=ts
+
