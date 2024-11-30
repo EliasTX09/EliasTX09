@@ -368,7 +368,7 @@ http://line.4k-beast.co:80/425027/D64075/106961
 http://line.4k-beast.co:80/425027/D64075/106987
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1,Das Erste
+#EXTINF:-1,Das Erste.
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" group-title="EU| GERMANY HEVC",DE| SKY SPORT BUNDESLIGA 1 HEVC
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:98:E6:68&stream=889502&extension=ts&play_token=1kQmYj5FN4
